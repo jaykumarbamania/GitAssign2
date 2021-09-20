@@ -1,0 +1,6 @@
+Hello there, I am Jaykumar Bamania. 
+I am a Graduated Bachelor of Engineering in Computer Engineering at LD College of Engineering.
+The Year of my passout is 2021.
+In my College time, I have learned Web Development and Full Stack Development with Technologies like Javascript,
+Python, PHP, C, C++ and Java(not much).
+
